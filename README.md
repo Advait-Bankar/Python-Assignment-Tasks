@@ -11,5 +11,5 @@ This script does make you a personalized Greeting, using the input of name and s
 Make sure you have Python installed. Then run:
 
 ```bash
-python Task1.py
-python Task2.py
+task1.py
+task2.py
