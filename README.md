@@ -2,10 +2,10 @@
 # Python Assignment – Tutedude
 
 ## Task 1
-This script [describe what Task1.py does].
+This script does the simple maths numericals such as Addition, Subtractin, Multiplication and Division, as per the user's input of any two numbers.
 
 ## Task 2
-This script [describe what Task2.py does].
+This script does make you a personalized Greeting, using the input of name and surname.
 
 ## How to Run
 Make sure you have Python installed. Then run:
